@@ -6,9 +6,7 @@ categories: jekyll update
 
 You can visit my first blog
 
-'''python
 def print_hi(name):
 print("Hello",name)
-'''
 
 print_hi('geunyeong')
